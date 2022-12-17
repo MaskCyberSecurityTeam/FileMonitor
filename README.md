@@ -1,2 +1,7 @@
-# FileMonitor
-文件夹监控
+重复造轮子!!!
+
+重复造轮子!!!
+
+重复造轮子!!!
+
+`FileMonitor /data/local/tmp`
